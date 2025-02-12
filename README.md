@@ -4,7 +4,7 @@ Los números complejos e imaginarios se emplean para resolver ecuaciones que no 
 
 ## Descripcion 
 
-A lo largo de este proyecto se encuentran diferentes operaciones las cuales podemos hacer con numeros complejos. Las operaciones que estan definidas en este proyecto son suma, resta, multiplicacion, division, modulo, conjugado, conversion entre coordenadas polares y cartesianas, de igual manera se definio una conversion entre cartesianas y polares, la ultima funcion definida es la fase de un numero complejo.   
+A lo largo de este proyecto se encuentran diferentes operaciones las cuales podemos hacer con numeros complejos. Las operaciones que estan definidas en este proyecto son suma, resta, multiplicacion, division, modulo, conjugado, conversion entre coordenadas polares y cartesianas, de igual manera se definio una conversion entre cartesianas y polares, la ultima funcion definida es la fase de un numero complejo. En los dos jupyter notebook tenemos operaciones basicas con vectores y matrices de numeros complejos. En el otro documento estan operaciones en las que obtenemos los valores propios de una matriz y vectores propios. 
 
 ### Prerrequisitos
 
